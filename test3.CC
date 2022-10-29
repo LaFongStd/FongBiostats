@@ -1,6 +1,9 @@
 #include <iostream>
+
 using namespace std;
-int main(){
-    cout <<"Kit Fong Fong";
+
+int main()
+{
+    std::cout <<"My name is FongBiostats\n";
     return 0;
 }
