@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- Biochemistry Nerd
+ Biochemistry Nerd, Love studying the principles of Biochemistry, Toxicology and Pharmacology
 
 # Mastering Techniques
 C/C++,JAVA,R,Perl 
