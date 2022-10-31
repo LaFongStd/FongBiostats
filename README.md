@@ -3,7 +3,7 @@
  Biochemistry Nerd, Love studying the principles of Biochemistry, Toxicology and Pharmacology
 
 # Mastering Techniques
-C/C++,JAVA,R,Perl 
+C/C++, JAVA, R, Perl 
 
 Biomedical lab techniques: PCR, Gel electrophoresis, ELISA
 
