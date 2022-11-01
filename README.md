@@ -3,9 +3,8 @@
  Biochemistry Nerd, Love studying the principles of Biochemistry, Toxicology and Pharmacology
 
 # Mastering Techniques
-Non-CS major programming learner:C/C++, JAVA, R, Perl 
-
-Biomedical lab techniques: PCR, Gel electrophoresis, ELISA
+*C/C++, JAVA, R, Perl 
+*Biomedical lab techniques: PCR, Gel electrophoresis, ELISA
 
 ### Singed
 ![Alt Text](https://github.com/FongBiostats/FongBiostats/blob/main/139238.gif))
