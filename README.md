@@ -8,7 +8,7 @@ Non-CS major programming learner:C/C++, JAVA, R, Perl
 Biomedical lab techniques: PCR, Gel electrophoresis, ELISA
 
 ### Singed
-<img src="hhttps://github.com/FongBiostats/FongBiostats/blob/main/139238.gif">
+<img src="hhttps://github.com/FongBiostats/FongBiostats/blob/main/139238.gif" width=270 height = 350>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FongBiostats)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FongBiostats&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
